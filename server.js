@@ -12,7 +12,7 @@ process.on("uncaughtException", (err) => {
 
 app.use(
   cors({
-    origin: ["https://justore-mu.vercel.app/", "http://localhost:3000"], // Allow requests only from this origin
+    origin: "*", // Allow requests only from this origin
     methods: "GET,POST", // Allow only specified HTTP methods
     allowedHeaders: "Content-Type,Authorization", // Allow only specified headers
     optionsSuccessStatus: 204,
