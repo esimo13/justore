@@ -12,10 +12,11 @@ process.on("uncaughtException", (err) => {
 
 app.use(
   cors({
-    origin: "*", // Allow requests only from this origin
+    origin: ["https://justorefrontend.vercel.app/", "http://localhost:3000"], // Allow requests only from this origin
     methods: "GET,POST", // Allow only specified HTTP methods
     allowedHeaders: "Content-Type,Authorization", // Allow only specified headers
-    optionsSuccessStatus: 204, // Respond with 204 No Content for preflight requests
+    optionsSuccessStatus: 204,
+    credentials: true, // Respond with 204 No Content for preflight requests
   })
 );
 
