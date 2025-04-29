@@ -72,6 +72,7 @@ JUstore is a full-featured e-commerce web application built using the MERN stack
 
 ---
 
-## 📂 Folder Structure
+## 📂 Live Link 
+https://justorefrontend.vercel.app/
 
 
