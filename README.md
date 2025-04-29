@@ -40,8 +40,8 @@ JUstore is a full-featured e-commerce web application built using the MERN stack
 ### 📄 Product Detail Page  
 ![Product Detail](./assets/featured.png)
 
-### 🔍 Search and Filter  
-![Search Filter](./assets/search-filter.png)
+### 🔍 About  
+![Search Filter](./assets/about.png)
 
 ### 🛒 Shopping Cart  
 ![Cart](./assets/cart.png)
@@ -53,13 +53,13 @@ JUstore is a full-featured e-commerce web application built using the MERN stack
 ![Checkout](./assets/checkout.png)
 
 ### 💳 Stripe Payment  
-![Stripe Payment](./assets/stripe.png)
+![Stripe Payment](./assets/shipping.png)
 
-### ✅ Order Confirmation  
-![Order Success](./assets/order-success.png)
+### ✅ Password Update 
+![Order Success](./assets/password.png)
 
-### 📜 Order History  
-![Order History](./assets/order-history.png)
+### 📜 User Profile 
+![Order History](./assets/profile.png)
 
 ### 🧑‍💼 Admin Dashboard  
 ![Admin Dashboard](./assets/admin.png)
@@ -67,7 +67,7 @@ JUstore is a full-featured e-commerce web application built using the MERN stack
 ### 📋 Product Management (Admin)  
 ![Product Management](./assets/summary.png)
 
-### 👥 User Management (Admin)  
+### 👥 Update Profile 
 ![User Management](./assets/update.png)
 
 ---
